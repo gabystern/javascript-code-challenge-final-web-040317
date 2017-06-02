@@ -1,3 +1,6 @@
 $(document).ready(function(){
-  // your code here!
+
+  let newInstagramController = new InstagramController()
+  newInstagramController.render()
+
 })
